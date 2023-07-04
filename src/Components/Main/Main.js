@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { getAllLessons } from "../../Common/Services/LearnService";
+import { getAllLessons } from "/src/Common/Services/LearnService";
 import MainList from "./MainList";
 
 /* MAIN MODULE WITH STATEFUL PARENT AND STATELESS CHILD */
