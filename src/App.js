@@ -1,3 +1,4 @@
+/*importing and initializing react and stuff*/
 import React from "react";
 import Main from "./Components/Main/Main";
 import * as Env from "./environments";
